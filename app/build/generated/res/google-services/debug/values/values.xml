@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1062546884932-b5n88kqve9oa6rq3rh4aejuas3dqur66.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1062546884932</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvpDRzKD1DwKXneHriMzkCJVG8VhtmMDg</string>
+    <string name="google_app_id" translatable="false">1:1062546884932:android:8d9209ef25df633c91ef11</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvpDRzKD1DwKXneHriMzkCJVG8VhtmMDg</string>
+    <string name="google_storage_bucket" translatable="false">trabprogmob.appspot.com</string>
+    <string name="project_id" translatable="false">trabprogmob</string>
+</resources>

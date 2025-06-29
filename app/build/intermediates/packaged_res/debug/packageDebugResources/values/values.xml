@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorChangeRole">#008000</color>
+    <color name="colorDelete">#FF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">PROGMOB Profª Ana Karina</string>
+    <string name="default_web_client_id" translatable="false">1062546884932-b5n88kqve9oa6rq3rh4aejuas3dqur66.apps.googleusercontent.com</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="gcm_defaultSenderId" translatable="false">1062546884932</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvpDRzKD1DwKXneHriMzkCJVG8VhtmMDg</string>
+    <string name="google_app_id" translatable="false">1:1062546884932:android:8d9209ef25df633c91ef11</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvpDRzKD1DwKXneHriMzkCJVG8VhtmMDg</string>
+    <string name="google_storage_bucket" translatable="false">trabprogmob.appspot.com</string>
+    <string name="login_button_text">Login</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="project_id" translatable="false">trabprogmob</string>
+    <string name="register_button_text">Register</string>
+    <style name="Base.Theme.TrabProgMob" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TrabProgMob" parent="Theme.Material3.DayNight"/>
+</resources>
